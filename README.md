@@ -8,11 +8,11 @@ A voice based translator has been built here. It performs the following operatio
 
 ### Demo Test Run:
 
-<p align="center">
+<p align="left">
 <img width="372" alt="Test_Run_Output" src="https://user-images.githubusercontent.com/77844663/119766797-4a5e4100-bed3-11eb-8501-1380d612e4a4.PNG">
 </p>
 
 #### Languages Supported :
-<p align="center">
-<img width="372" alt="Language_Codes" src="https://user-images.githubusercontent.com/77844663/119766893-77aaef00-bed3-11eb-8ce1-1cb93206d8f2.png">
+<p align="left">
+<img width="572" alt="Language_Codes" src="https://user-images.githubusercontent.com/77844663/119766893-77aaef00-bed3-11eb-8ce1-1cb93206d8f2.png">
 </p>
