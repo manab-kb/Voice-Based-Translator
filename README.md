@@ -10,7 +10,7 @@ A voice based translator has been built here. It performs the following operatio
 Below is a test run of the code. The users voice is detected, the input speech is converted to text and is translated to a destination language entered in the code.
 
 <p align="left">
-<img width="472" alt="Test_Run_Output" src="https://user-images.githubusercontent.com/77844663/119766797-4a5e4100-bed3-11eb-8501-1380d612e4a4.PNG">
+<img width="572" alt="Test_Run_Output" src="https://user-images.githubusercontent.com/77844663/119766797-4a5e4100-bed3-11eb-8501-1380d612e4a4.PNG">
 </p>
 
 ### Languages Supported :
