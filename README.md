@@ -6,7 +6,7 @@ A voice based translator has been built here. It performs the following operatio
 3. *Translates the language to a chosen destination language.*
 4. *Creates a '.mp3' file, saves it in the same directory as the program and automatically plays the file.* 
 
-### Demo Test Run:
+### Demo Test Run :
 Below is a test run of the code. The users voice is detected, the input speech is converted to text and is translated to a destination language entered in the code.
 
 <p align="left">
