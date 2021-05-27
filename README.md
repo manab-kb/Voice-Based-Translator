@@ -9,10 +9,10 @@ A voice based translator has been built here. It performs the following operatio
 ### Demo Test Run:
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/77844663/119766512-c60bbe00-bed2-11eb-8438-d6338ea09c29.png)
+<img width="372" alt="Test_Run_Output" src="https://user-images.githubusercontent.com/77844663/119766797-4a5e4100-bed3-11eb-8501-1380d612e4a4.PNG">
 </p>
 
 #### Languages Supported :
 <p align="center">
-![Language_Codes](https://user-images.githubusercontent.com/77844663/119766638-023f1e80-bed3-11eb-8559-2f4e7dc5668a.png)
+<img width="372" alt="Language_Codes" src="https://user-images.githubusercontent.com/77844663/119766893-77aaef00-bed3-11eb-8ce1-1cb93206d8f2.png">
 </p>
