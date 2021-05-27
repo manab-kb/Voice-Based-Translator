@@ -19,3 +19,20 @@ These are the language codes for the languages that support translation. These c
 <p align="left">
 <img width="972" alt="Language_Codes" src="https://user-images.githubusercontent.com/77844663/119766893-77aaef00-bed3-11eb-8ce1-1cb93206d8f2.png">
 </p>
+
+# Contributing Guidelines :
+
+  ### Thanks for taking the time to contribute!
+  
+  This project is simpler than most, so it’s a good place to start contributing to the open source community.
+
+  We are accepting these sorts of changes and requests:
+
+    Bug reports and fixes
+    Usability improvements
+    Documentation updates
+
+We are not accepting things that should be done in your own wrapper code:
+
+    Personal customizations and preferences
+    Modified or augmented outputs that are not instrinsic
