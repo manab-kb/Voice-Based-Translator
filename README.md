@@ -22,7 +22,7 @@ These are the language codes for the languages that support translation. These c
 
 # Contributing Guidelines :
 
-  ### Thanks for taking the time to contribute!
+  Thanks for taking the time to contribute!
   
   This project is simpler than most, so it’s a good place to start contributing to the open source community.
 
