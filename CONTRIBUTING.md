@@ -4,7 +4,7 @@ We only have a couple of rules and we hope you enjoy the process :)
 
 ## Contributing Rules
 1. Don't move or delete any files. Only modify them.
-2. Put all codes in the Translatory.py file.
+2. Put all codes in the Translatory.py file, found under the 'Code' folder.
 
 ## Contributing Process
 1. Fork the repository
